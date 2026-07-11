@@ -1,3 +1,12 @@
+'''
+Single | Double 
+
+- Access by index          : O(n) | O(n)
+- Search                   : O(n) | O(n)
+- Insert/Delete at head    : O(1) | O(1)
+- Insert/Delete at mid/end : O(1) | O(1) if pointer known or O(n) with traversal
+'''
+
 class Node:
     def __init__(self, data = None):
         self.data = data

@@ -1,5 +1,6 @@
 '''
-
+- Access by index / Search : O(1) Avg, O(n) worst
+- Any insert or deletion   : O(1) Avg, O(n) worst
 '''
 
 class HashTable:

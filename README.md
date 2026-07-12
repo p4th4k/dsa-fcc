@@ -15,9 +15,9 @@ This is a collection of data structures & algorithms I learnt while completing [
         - Binary Search ✅ 
     - Sorting Algorithm 
         - Merge Sort ✅
-        - Quick Sort 
-        - Selection Sort 
-    - Luhn Algorithm 
+        - Quick Sort ✅ 
+        - Selection Sort ✅ 
+    - Luhn Algorithm ✅ 
     - Tower of Hanoi
 - Graph & Trees
     - Dijkstra's Shortest Path Algorithm 

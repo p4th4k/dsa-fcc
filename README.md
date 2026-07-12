@@ -9,11 +9,12 @@ This is a collection of data structures & algorithms I learnt while completing [
 - Non Linear Data Structure ✅ 
     - Hash Table ✅
 - Algorithms
-    - Bisection Method
+    - Bisection Method ✅
     - Searching Algorithm 
-        - Binary Search 
+        - Linear Search ✅
+        - Binary Search ✅ 
     - Sorting Algorithm 
-        - Merge Sort 
+        - Merge Sort ✅
         - Quick Sort 
         - Selection Sort 
     - Luhn Algorithm 
